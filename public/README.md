@@ -23,13 +23,13 @@ For each of the features listed below, make an estimate of the time it will take
 
 ```
 Number and name of feature: ________________________________
-
+4 feature
 Estimate of time needed to complete: _____
-
+4 hours
 Start time: _____
-
+3 pm
 Finish time: _____
-
+7 pm
 Actual time needed to complete: _____
 ```
 
